@@ -10,9 +10,9 @@ def tribonacci(s, n):
   
     count = 0
     if n == 0:
-        print[]
+        print([])
     elif n == 1:
-        print[1]
+        print([1])
     else:
         while count < n:
             print(n1, end=' , ')
